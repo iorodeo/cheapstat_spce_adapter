@@ -1,0 +1,21 @@
+# EESchema Netlist Version 1.1 created  Thu 24 Jul 2014 04:17:20 PM PDT
+(
+ ( /53D18668 5X2_SHRD_HEADER P1 CONN_5X2
+  ( 1 /counter )
+  ( 2 ? )
+  ( 3 /working )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 /reference )
+  ( 10 ? )
+ )
+ ( /53D1864A PIN_ARRAY_3X1 P2 CONN_3
+  ( 1 /counter )
+  ( 2 /reference )
+  ( 3 /working )
+ )
+)
+*
